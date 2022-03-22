@@ -1,3 +1,6 @@
 git 原始参数
 
 git status 查看状态
+
+不用密码提交代码  git remote -v （查看是否http） git remote rm rm origin (去掉http方式)
+git remote add origin git@github.com:(替换为ssh方式)
